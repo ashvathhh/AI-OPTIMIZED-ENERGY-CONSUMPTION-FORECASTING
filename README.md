@@ -222,23 +222,6 @@ Temporal Features Created:
 
 ---
 
-## Academic Context
-
-**Institution**: Rajalakshmi Engineering College, Anna University  
-**Department**: Artificial Intelligence and Data Science  
-**Project Type**: Mini Project  
-**Duration**: December 2023 - April 2024  
-
-### Team Members
-
-- **Aatrey Anand V** (211501002)
-- **Ashvath Venkataramana Cheppalli** (211501015) 
-- **Gautham B** (211501027)
-
-**Supervisor**: Mrs. D. Sorna Shanthi, M.Tech., Associate Professor
-
----
-
 ## Future Enhancements
 
 - **LSTM Neural Networks**: For capturing long-term temporal dependencies
@@ -301,8 +284,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - **UCI Machine Learning Repository** for providing the dataset
-- **Rajalakshmi Engineering College** for academic support and resources
-- **Department of AI & Data Science** faculty for guidance and mentorship
 - **Open source community** for the tools and libraries
 - **Kaggle community** for data science resources
 
