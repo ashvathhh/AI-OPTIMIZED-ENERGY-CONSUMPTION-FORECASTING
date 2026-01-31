@@ -294,7 +294,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For questions, suggestions, or collaboration opportunities:
 
 - **GitHub**: [@ashvathhh](https://github.com/ashvathhh)
-- **LinkedIn**: [Ashvath Venkataramana Cheppalli](https://linkedin.com/in/yourprofile)
 - **Email**: cheppash2@gmail.com
 - **Project Link**: [https://github.com/ashvathhh/AI-OPTIMIZED-ENERGY-CONSUMPTION-FORECASTING](https://github.com/ashvathhh/AI-OPTIMIZED-ENERGY-CONSUMPTION-FORECASTING)
 
